@@ -3,7 +3,7 @@
 require '../php-vexel-api.php';
 
 $token = 'token';
-$url = 'http://test.test/webhook/'
+$url = 'http://test.test/webhook/';
 
 
 $api = new Vexel\API($token);
